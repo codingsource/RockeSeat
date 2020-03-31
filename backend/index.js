@@ -5,7 +5,10 @@ const port = 3333
 
 app.get('/', (request, response) => {
 
-  return response.send('Hello Word')
+  return response.json({
+    evento: "OmniStack 11.0",
+    aluno: "Peter Thomas",
+  })
 })
 
 app.listen(port, () =>{

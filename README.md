@@ -67,13 +67,6 @@ Funcionalidades [
   * Listar todos os casos
   * Entrar em contato com a ONG (whasapp, email)
 ]
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-=======
-
 -------------------------------------------------------
 
 * JSX (JavaScript XML)
->>>>>>> Stashed changes
->>>>>>> Stashed changes
